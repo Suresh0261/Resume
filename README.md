@@ -22,8 +22,8 @@ Quality & Technical Inspection Professional with <b>5+ years of experience</b> i
 <div style="background-color: #161b22; padding: 20px; border-radius: 10px; border-left: 4px solid #238636;">
 <h3 style="color: #3eaf7c; margin-top: 0;">📞 Contact</h3>
 <ul style="list-style-type: none; padding-left: 0; color: #c9d1d9; line-height: 2;">
-    <li>📱 <b>Phone:</b> +91 83202 56171</li>
-    <li>📧 <b>Email:</b> ksuresh0261@gmail.com</li>
-    <li>🔗 <b>LinkedIn:</b> <a href="https://linkedin.com/in/your-profile" style="color: #58a6ff;">My LinkedIn Profile</a></li>
-</ul>
+    <li>📱 <b>Phone:</b> <a href="tel:+918320256171" style="color: #58a6ff; text-decoration: none;">+91 83202 56171</a></li>
+        <li>📧 <b>Email:</b> <a href="mailto:ksuresh0261@gmail.com" style="color: #58a6ff;">ksuresh0261@gmail.com</a></li>
+        <li>🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sureshkumar-k-34267719a" style="color: #58a6ff;" target="_blank">Sureshkumar Kaneriya Profile</a></li>
+    </ul>
 </div>
