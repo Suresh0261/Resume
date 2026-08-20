@@ -314,7 +314,7 @@
             <section class="card-section about-card">
                 <h2><i class="fa-solid fa-user-check"></i> Profile Summary</h2>
                 <p>
-                    Results-driven Quality & Technical Inspection professional with <b>7+ years of experience</b> in Solar PV module manufacturing, IPQC/PDI management, and third-party inspections. Managed quality inspection programs for <b>500+ MW</b> of solar projects. Experienced in IEC 61215/61730 standards, ISO/IEC 17020 compliance, and drone thermography using Agisoft Metashape & QGIS.
+                    Results-driven Quality & Technical Inspection professional with <b>5+ years of experience</b> in Solar PV module manufacturing, IPQC/PDI management, and third-party inspections. Managed quality inspection programs for <b>500+ MW</b> of solar projects. Experienced in IEC 61215/61730 standards, ISO/IEC 17020 compliance, and drone thermography using Agisoft Metashape & QGIS.
                 </p>
             </section>
 
